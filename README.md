@@ -80,3 +80,28 @@ Bảng Config có thêm 4 khóa, phải có đủ cả 4: max_hours_7days=40, ma
 
 Khi đổi role, giữ chính xác `Shift Supervisor` nếu nhân viên đủ điều kiện giám sát. Role không tự cấp quyền nhận mọi ca; R2 vẫn áp dụng. Đổi input có thể khiến vô nghiệm, đặc biệt nếu thiếu supervisor vào một ngày. Không có bảo đảm khả thi cho mọi dữ liệu tùy ý.
 # shift_scheduling_julia
+Đánh giá kết quả qua log:
+```
+julia --project=. -e '
+using JSON3
+r = JSON3.read(read("results/result.json", String))
+println("Trạng thái: ", r.status)
+if haskey(r, :metrics)
+    m = r.metrics
+    println("Hàm mục tiêu: ", m.objective_recomputed)
+    println("Thiếu nhân sự (người-khung): ", m.shortage_person_slots)
+    println("Tỷ lệ đáp ứng nhu cầu: ",
+        isnothing(m.coverage_rate) ? "N/A" : string(round(100*m.coverage_rate; digits=2), "%"))
+    println("Số ca trái nguyện vọng: ", m.preference_violations)
+    println("Tỷ lệ đáp ứng nguyện vọng: ",
+        isnothing(m.preference_rate) ? "N/A" : string(round(100*m.preference_rate; digits=2), "%"))
+    println("Tổng giờ làm: ", m.actual_hours)
+    println("Tổng lệch giờ mục tiêu: ", m.hour_deviation)
+    println("Vi phạm ràng buộc cứng: ", m.hard_constraint_violations)
+    println("MIP gap: ", r.mip_gap)
+    println("Thời gian giải (giây): ", r.seconds)
+else
+    println("Chưa có nghiệm khả thi. Chi tiết: ", r.message)
+end
+'
+```

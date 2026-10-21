@@ -1,0 +1,13 @@
+﻿a,name,role,c,min_hours,target_hours,max_hours,actual_hours,deviation
+E01,Ava Collins,Shift Supervisor,Front Desk,120.0,160.0,184.0,160.0,0.0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,120.0,160.0,184.0,160.0,0.0
+E03,Liam Parker,Receptionist,Front Desk,120.0,160.0,184.0,160.0,0.0
+E04,Sophia Reed,Receptionist,Front Desk,120.0,160.0,184.0,160.0,0.0
+E05,Amelia Carter,Receptionist,Front Desk,120.0,160.0,184.0,160.0,0.0
+E06,Noah Mitchell,Receptionist,Front Desk,120.0,160.0,184.0,160.0,0.0
+E07,Emma Wilson,Shift Supervisor,Guest Services,120.0,160.0,184.0,160.0,0.0
+E08,Mason Clarke,Shift Supervisor,Guest Services,120.0,160.0,184.0,160.0,0.0
+E09,Oliver Bennett,Reservations Agent,Guest Services,120.0,160.0,184.0,160.0,0.0
+E10,Isabella Foster,Reservations Agent,Guest Services,120.0,160.0,184.0,160.0,0.0
+E11,Ethan Brooks,Reservations Agent,Guest Services,120.0,160.0,184.0,160.0,0.0
+E12,Lucas Morgan,Reservations Agent,Guest Services,120.0,160.0,184.0,160.0,0.0

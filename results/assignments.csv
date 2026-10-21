@@ -1,0 +1,361 @@
+﻿a,name,role,c,b,date,shift,hours,preference_violation
+E01,Ava Collins,Shift Supervisor,Front Desk,1,2026-06-01,OFF,0.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,2,2026-06-02,S2,8.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,3,2026-06-03,S1,8.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,4,2026-06-04,S1,8.0,1
+E01,Ava Collins,Shift Supervisor,Front Desk,5,2026-06-05,S1,8.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,6,2026-06-06,OFF,0.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,7,2026-06-07,S1,8.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,8,2026-06-08,OFF,0.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,9,2026-06-09,S1,8.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,10,2026-06-10,OFF,0.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,11,2026-06-11,S1,8.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,12,2026-06-12,S1,8.0,1
+E01,Ava Collins,Shift Supervisor,Front Desk,13,2026-06-13,S1,8.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,14,2026-06-14,OFF,0.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,15,2026-06-15,OFF,0.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,16,2026-06-16,S1,8.0,1
+E01,Ava Collins,Shift Supervisor,Front Desk,17,2026-06-17,S1,8.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,18,2026-06-18,S1,8.0,1
+E01,Ava Collins,Shift Supervisor,Front Desk,19,2026-06-19,OFF,0.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,20,2026-06-20,S1,8.0,1
+E01,Ava Collins,Shift Supervisor,Front Desk,21,2026-06-21,S1,8.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,22,2026-06-22,OFF,0.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,23,2026-06-23,S1,8.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,24,2026-06-24,S1,8.0,1
+E01,Ava Collins,Shift Supervisor,Front Desk,25,2026-06-25,S1,8.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,26,2026-06-26,OFF,0.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,27,2026-06-27,S1,8.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,28,2026-06-28,S1,8.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,29,2026-06-29,OFF,0.0,0
+E01,Ava Collins,Shift Supervisor,Front Desk,30,2026-06-30,S2,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,1,2026-06-01,S1,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,2,2026-06-02,OFF,0.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,3,2026-06-03,S1,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,4,2026-06-04,S1,8.0,1
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,5,2026-06-05,OFF,0.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,6,2026-06-06,S1,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,7,2026-06-07,S1,8.0,1
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,8,2026-06-08,S3,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,9,2026-06-09,OFF,0.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,10,2026-06-10,S1,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,11,2026-06-11,OFF,0.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,12,2026-06-12,S1,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,13,2026-06-13,S3,8.0,1
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,14,2026-06-14,S3,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,15,2026-06-15,S3,8.0,1
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,16,2026-06-16,OFF,0.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,17,2026-06-17,S3,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,18,2026-06-18,OFF,0.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,19,2026-06-19,S1,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,20,2026-06-20,OFF,0.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,21,2026-06-21,S1,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,22,2026-06-22,S3,8.0,1
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,23,2026-06-23,OFF,0.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,24,2026-06-24,S1,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,25,2026-06-25,S3,8.0,1
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,26,2026-06-26,S3,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,27,2026-06-27,OFF,0.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,28,2026-06-28,S3,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,29,2026-06-29,S3,8.0,0
+E02,Charlotte Hayes,Shift Supervisor,Front Desk,30,2026-06-30,OFF,0.0,0
+E03,Liam Parker,Receptionist,Front Desk,1,2026-06-01,S2,8.0,0
+E03,Liam Parker,Receptionist,Front Desk,2,2026-06-02,S1,8.0,0
+E03,Liam Parker,Receptionist,Front Desk,3,2026-06-03,OFF,0.0,0
+E03,Liam Parker,Receptionist,Front Desk,4,2026-06-04,OFF,0.0,0
+E03,Liam Parker,Receptionist,Front Desk,5,2026-06-05,S1,8.0,0
+E03,Liam Parker,Receptionist,Front Desk,6,2026-06-06,S3,8.0,1
+E03,Liam Parker,Receptionist,Front Desk,7,2026-06-07,S3,8.0,0
+E03,Liam Parker,Receptionist,Front Desk,8,2026-06-08,OFF,0.0,0
+E03,Liam Parker,Receptionist,Front Desk,9,2026-06-09,S3,8.0,1
+E03,Liam Parker,Receptionist,Front Desk,10,2026-06-10,OFF,0.0,0
+E03,Liam Parker,Receptionist,Front Desk,11,2026-06-11,S1,8.0,0
+E03,Liam Parker,Receptionist,Front Desk,12,2026-06-12,S3,8.0,1
+E03,Liam Parker,Receptionist,Front Desk,13,2026-06-13,OFF,0.0,0
+E03,Liam Parker,Receptionist,Front Desk,14,2026-06-14,S1,8.0,0
+E03,Liam Parker,Receptionist,Front Desk,15,2026-06-15,S1,8.0,1
+E03,Liam Parker,Receptionist,Front Desk,16,2026-06-16,G2,4.0,0
+E03,Liam Parker,Receptionist,Front Desk,17,2026-06-17,OFF,0.0,0
+E03,Liam Parker,Receptionist,Front Desk,18,2026-06-18,S1,8.0,1
+E03,Liam Parker,Receptionist,Front Desk,19,2026-06-19,S1,8.0,0
+E03,Liam Parker,Receptionist,Front Desk,20,2026-06-20,G1,4.0,0
+E03,Liam Parker,Receptionist,Front Desk,21,2026-06-21,S3,8.0,1
+E03,Liam Parker,Receptionist,Front Desk,22,2026-06-22,OFF,0.0,0
+E03,Liam Parker,Receptionist,Front Desk,23,2026-06-23,S1,8.0,0
+E03,Liam Parker,Receptionist,Front Desk,24,2026-06-24,OFF,0.0,0
+E03,Liam Parker,Receptionist,Front Desk,25,2026-06-25,S1,8.0,1
+E03,Liam Parker,Receptionist,Front Desk,26,2026-06-26,S1,8.0,0
+E03,Liam Parker,Receptionist,Front Desk,27,2026-06-27,S3,8.0,1
+E03,Liam Parker,Receptionist,Front Desk,28,2026-06-28,OFF,0.0,0
+E03,Liam Parker,Receptionist,Front Desk,29,2026-06-29,S1,8.0,0
+E03,Liam Parker,Receptionist,Front Desk,30,2026-06-30,S3,8.0,1
+E04,Sophia Reed,Receptionist,Front Desk,1,2026-06-01,S3,8.0,0
+E04,Sophia Reed,Receptionist,Front Desk,2,2026-06-02,S3,8.0,1
+E04,Sophia Reed,Receptionist,Front Desk,3,2026-06-03,S3,8.0,0
+E04,Sophia Reed,Receptionist,Front Desk,4,2026-06-04,OFF,0.0,0
+E04,Sophia Reed,Receptionist,Front Desk,5,2026-06-05,S3,8.0,1
+E04,Sophia Reed,Receptionist,Front Desk,6,2026-06-06,S3,8.0,0
+E04,Sophia Reed,Receptionist,Front Desk,7,2026-06-07,OFF,0.0,0
+E04,Sophia Reed,Receptionist,Front Desk,8,2026-06-08,S1,8.0,1
+E04,Sophia Reed,Receptionist,Front Desk,9,2026-06-09,S3,8.0,0
+E04,Sophia Reed,Receptionist,Front Desk,10,2026-06-10,S3,8.0,0
+E04,Sophia Reed,Receptionist,Front Desk,11,2026-06-11,OFF,0.0,0
+E04,Sophia Reed,Receptionist,Front Desk,12,2026-06-12,OFF,0.0,0
+E04,Sophia Reed,Receptionist,Front Desk,13,2026-06-13,S1,8.0,0
+E04,Sophia Reed,Receptionist,Front Desk,14,2026-06-14,OFF,0.0,0
+E04,Sophia Reed,Receptionist,Front Desk,15,2026-06-15,S1,8.0,1
+E04,Sophia Reed,Receptionist,Front Desk,16,2026-06-16,S1,8.0,0
+E04,Sophia Reed,Receptionist,Front Desk,17,2026-06-17,S2,8.0,0
+E04,Sophia Reed,Receptionist,Front Desk,18,2026-06-18,OFF,0.0,0
+E04,Sophia Reed,Receptionist,Front Desk,19,2026-06-19,S3,8.0,0
+E04,Sophia Reed,Receptionist,Front Desk,20,2026-06-20,S3,8.0,1
+E04,Sophia Reed,Receptionist,Front Desk,21,2026-06-21,OFF,0.0,0
+E04,Sophia Reed,Receptionist,Front Desk,22,2026-06-22,S1,8.0,0
+E04,Sophia Reed,Receptionist,Front Desk,23,2026-06-23,OFF,0.0,0
+E04,Sophia Reed,Receptionist,Front Desk,24,2026-06-24,S3,8.0,0
+E04,Sophia Reed,Receptionist,Front Desk,25,2026-06-25,OFF,0.0,0
+E04,Sophia Reed,Receptionist,Front Desk,26,2026-06-26,S3,8.0,1
+E04,Sophia Reed,Receptionist,Front Desk,27,2026-06-27,S3,8.0,0
+E04,Sophia Reed,Receptionist,Front Desk,28,2026-06-28,OFF,0.0,0
+E04,Sophia Reed,Receptionist,Front Desk,29,2026-06-29,S3,8.0,1
+E04,Sophia Reed,Receptionist,Front Desk,30,2026-06-30,S3,8.0,0
+E05,Amelia Carter,Receptionist,Front Desk,1,2026-06-01,S3,8.0,0
+E05,Amelia Carter,Receptionist,Front Desk,2,2026-06-02,S3,8.0,0
+E05,Amelia Carter,Receptionist,Front Desk,3,2026-06-03,S3,8.0,1
+E05,Amelia Carter,Receptionist,Front Desk,4,2026-06-04,S3,8.0,1
+E05,Amelia Carter,Receptionist,Front Desk,5,2026-06-05,OFF,0.0,0
+E05,Amelia Carter,Receptionist,Front Desk,6,2026-06-06,S1,8.0,0
+E05,Amelia Carter,Receptionist,Front Desk,7,2026-06-07,OFF,0.0,0
+E05,Amelia Carter,Receptionist,Front Desk,8,2026-06-08,S1,8.0,1
+E05,Amelia Carter,Receptionist,Front Desk,9,2026-06-09,S1,8.0,0
+E05,Amelia Carter,Receptionist,Front Desk,10,2026-06-10,S1,8.0,0
+E05,Amelia Carter,Receptionist,Front Desk,11,2026-06-11,S3,8.0,0
+E05,Amelia Carter,Receptionist,Front Desk,12,2026-06-12,OFF,0.0,0
+E05,Amelia Carter,Receptionist,Front Desk,13,2026-06-13,G2,4.0,1
+E05,Amelia Carter,Receptionist,Front Desk,14,2026-06-14,G2,4.0,0
+E05,Amelia Carter,Receptionist,Front Desk,15,2026-06-15,OFF,0.0,0
+E05,Amelia Carter,Receptionist,Front Desk,16,2026-06-16,S3,8.0,1
+E05,Amelia Carter,Receptionist,Front Desk,17,2026-06-17,S3,8.0,0
+E05,Amelia Carter,Receptionist,Front Desk,18,2026-06-18,S3,8.0,1
+E05,Amelia Carter,Receptionist,Front Desk,19,2026-06-19,OFF,0.0,0
+E05,Amelia Carter,Receptionist,Front Desk,20,2026-06-20,S3,8.0,0
+E05,Amelia Carter,Receptionist,Front Desk,21,2026-06-21,OFF,0.0,0
+E05,Amelia Carter,Receptionist,Front Desk,22,2026-06-22,S1,8.0,1
+E05,Amelia Carter,Receptionist,Front Desk,23,2026-06-23,S3,8.0,0
+E05,Amelia Carter,Receptionist,Front Desk,24,2026-06-24,OFF,0.0,0
+E05,Amelia Carter,Receptionist,Front Desk,25,2026-06-25,S3,8.0,1
+E05,Amelia Carter,Receptionist,Front Desk,26,2026-06-26,OFF,0.0,0
+E05,Amelia Carter,Receptionist,Front Desk,27,2026-06-27,S1,8.0,0
+E05,Amelia Carter,Receptionist,Front Desk,28,2026-06-28,S3,8.0,0
+E05,Amelia Carter,Receptionist,Front Desk,29,2026-06-29,OFF,0.0,0
+E05,Amelia Carter,Receptionist,Front Desk,30,2026-06-30,S1,8.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,1,2026-06-01,S1,8.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,2,2026-06-02,S1,8.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,3,2026-06-03,S2,8.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,4,2026-06-04,S3,8.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,5,2026-06-05,G2,4.0,1
+E06,Noah Mitchell,Receptionist,Front Desk,6,2026-06-06,OFF,0.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,7,2026-06-07,G2,4.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,8,2026-06-08,S3,8.0,1
+E06,Noah Mitchell,Receptionist,Front Desk,9,2026-06-09,OFF,0.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,10,2026-06-10,G2,4.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,11,2026-06-11,S3,8.0,1
+E06,Noah Mitchell,Receptionist,Front Desk,12,2026-06-12,S3,8.0,1
+E06,Noah Mitchell,Receptionist,Front Desk,13,2026-06-13,OFF,0.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,14,2026-06-14,S1,8.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,15,2026-06-15,S3,8.0,1
+E06,Noah Mitchell,Receptionist,Front Desk,16,2026-06-16,OFF,0.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,17,2026-06-17,S1,8.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,18,2026-06-18,S3,8.0,1
+E06,Noah Mitchell,Receptionist,Front Desk,19,2026-06-19,S3,8.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,20,2026-06-20,OFF,0.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,21,2026-06-21,G2,4.0,1
+E06,Noah Mitchell,Receptionist,Front Desk,22,2026-06-22,S3,8.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,23,2026-06-23,G2,4.0,1
+E06,Noah Mitchell,Receptionist,Front Desk,24,2026-06-24,S3,8.0,1
+E06,Noah Mitchell,Receptionist,Front Desk,25,2026-06-25,OFF,0.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,26,2026-06-26,S1,8.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,27,2026-06-27,OFF,0.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,28,2026-06-28,S1,8.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,29,2026-06-29,S1,8.0,0
+E06,Noah Mitchell,Receptionist,Front Desk,30,2026-06-30,G1,4.0,1
+E07,Emma Wilson,Shift Supervisor,Guest Services,1,2026-06-01,S1,8.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,2,2026-06-02,S1,8.0,1
+E07,Emma Wilson,Shift Supervisor,Guest Services,3,2026-06-03,S1,8.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,4,2026-06-04,OFF,0.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,5,2026-06-05,S1,8.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,6,2026-06-06,S1,8.0,1
+E07,Emma Wilson,Shift Supervisor,Guest Services,7,2026-06-07,OFF,0.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,8,2026-06-08,S1,8.0,1
+E07,Emma Wilson,Shift Supervisor,Guest Services,9,2026-06-09,S1,8.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,10,2026-06-10,OFF,0.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,11,2026-06-11,S1,8.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,12,2026-06-12,S1,8.0,1
+E07,Emma Wilson,Shift Supervisor,Guest Services,13,2026-06-13,S1,8.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,14,2026-06-14,OFF,0.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,15,2026-06-15,S1,8.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,16,2026-06-16,OFF,0.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,17,2026-06-17,S1,8.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,18,2026-06-18,S1,8.0,1
+E07,Emma Wilson,Shift Supervisor,Guest Services,19,2026-06-19,OFF,0.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,20,2026-06-20,S2,8.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,21,2026-06-21,OFF,0.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,22,2026-06-22,S1,8.0,1
+E07,Emma Wilson,Shift Supervisor,Guest Services,23,2026-06-23,S1,8.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,24,2026-06-24,S2,8.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,25,2026-06-25,S1,8.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,26,2026-06-26,OFF,0.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,27,2026-06-27,S1,8.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,28,2026-06-28,OFF,0.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,29,2026-06-29,S1,8.0,0
+E07,Emma Wilson,Shift Supervisor,Guest Services,30,2026-06-30,OFF,0.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,1,2026-06-01,OFF,0.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,2,2026-06-02,OFF,0.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,3,2026-06-03,S1,8.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,4,2026-06-04,S1,8.0,1
+E08,Mason Clarke,Shift Supervisor,Guest Services,5,2026-06-05,S1,8.0,1
+E08,Mason Clarke,Shift Supervisor,Guest Services,6,2026-06-06,S1,8.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,7,2026-06-07,G1,4.0,1
+E08,Mason Clarke,Shift Supervisor,Guest Services,8,2026-06-08,OFF,0.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,9,2026-06-09,G1,4.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,10,2026-06-10,S1,8.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,11,2026-06-11,S3,8.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,12,2026-06-12,S3,8.0,1
+E08,Mason Clarke,Shift Supervisor,Guest Services,13,2026-06-13,OFF,0.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,14,2026-06-14,S3,8.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,15,2026-06-15,OFF,0.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,16,2026-06-16,S3,8.0,1
+E08,Mason Clarke,Shift Supervisor,Guest Services,17,2026-06-17,S3,8.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,18,2026-06-18,S3,8.0,1
+E08,Mason Clarke,Shift Supervisor,Guest Services,19,2026-06-19,S3,8.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,20,2026-06-20,OFF,0.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,21,2026-06-21,S1,8.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,22,2026-06-22,OFF,0.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,23,2026-06-23,S3,8.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,24,2026-06-24,S3,8.0,1
+E08,Mason Clarke,Shift Supervisor,Guest Services,25,2026-06-25,S3,8.0,1
+E08,Mason Clarke,Shift Supervisor,Guest Services,26,2026-06-26,S3,8.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,27,2026-06-27,OFF,0.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,28,2026-06-28,S3,8.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,29,2026-06-29,OFF,0.0,0
+E08,Mason Clarke,Shift Supervisor,Guest Services,30,2026-06-30,S1,8.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,1,2026-06-01,S3,8.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,2,2026-06-02,OFF,0.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,3,2026-06-03,S3,8.0,1
+E09,Oliver Bennett,Reservations Agent,Guest Services,4,2026-06-04,S3,8.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,5,2026-06-05,S3,8.0,1
+E09,Oliver Bennett,Reservations Agent,Guest Services,6,2026-06-06,OFF,0.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,7,2026-06-07,S3,8.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,8,2026-06-08,OFF,0.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,9,2026-06-09,OFF,0.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,10,2026-06-10,S1,8.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,11,2026-06-11,S1,8.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,12,2026-06-12,S3,8.0,1
+E09,Oliver Bennett,Reservations Agent,Guest Services,13,2026-06-13,S3,8.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,14,2026-06-14,OFF,0.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,15,2026-06-15,S3,8.0,1
+E09,Oliver Bennett,Reservations Agent,Guest Services,16,2026-06-16,OFF,0.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,17,2026-06-17,S1,8.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,18,2026-06-18,OFF,0.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,19,2026-06-19,S1,8.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,20,2026-06-20,S1,8.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,21,2026-06-21,S1,8.0,1
+E09,Oliver Bennett,Reservations Agent,Guest Services,22,2026-06-22,S3,8.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,23,2026-06-23,OFF,0.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,24,2026-06-24,S3,8.0,1
+E09,Oliver Bennett,Reservations Agent,Guest Services,25,2026-06-25,OFF,0.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,26,2026-06-26,S1,8.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,27,2026-06-27,S3,8.0,1
+E09,Oliver Bennett,Reservations Agent,Guest Services,28,2026-06-28,S3,8.0,0
+E09,Oliver Bennett,Reservations Agent,Guest Services,29,2026-06-29,S3,8.0,1
+E09,Oliver Bennett,Reservations Agent,Guest Services,30,2026-06-30,OFF,0.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,1,2026-06-01,S1,8.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,2,2026-06-02,S3,8.0,1
+E10,Isabella Foster,Reservations Agent,Guest Services,3,2026-06-03,OFF,0.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,4,2026-06-04,S1,8.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,5,2026-06-05,OFF,0.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,6,2026-06-06,S3,8.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,7,2026-06-07,OFF,0.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,8,2026-06-08,S1,8.0,1
+E10,Isabella Foster,Reservations Agent,Guest Services,9,2026-06-09,S3,8.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,10,2026-06-10,OFF,0.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,11,2026-06-11,S3,8.0,1
+E10,Isabella Foster,Reservations Agent,Guest Services,12,2026-06-12,OFF,0.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,13,2026-06-13,S1,8.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,14,2026-06-14,S1,8.0,1
+E10,Isabella Foster,Reservations Agent,Guest Services,15,2026-06-15,OFF,0.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,16,2026-06-16,S1,8.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,17,2026-06-17,OFF,0.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,18,2026-06-18,S3,8.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,19,2026-06-19,S3,8.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,20,2026-06-20,S3,8.0,1
+E10,Isabella Foster,Reservations Agent,Guest Services,21,2026-06-21,S3,8.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,22,2026-06-22,OFF,0.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,23,2026-06-23,S3,8.0,1
+E10,Isabella Foster,Reservations Agent,Guest Services,24,2026-06-24,OFF,0.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,25,2026-06-25,S1,8.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,26,2026-06-26,S3,8.0,1
+E10,Isabella Foster,Reservations Agent,Guest Services,27,2026-06-27,S3,8.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,28,2026-06-28,OFF,0.0,0
+E10,Isabella Foster,Reservations Agent,Guest Services,29,2026-06-29,S3,8.0,1
+E10,Isabella Foster,Reservations Agent,Guest Services,30,2026-06-30,S3,8.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,1,2026-06-01,S3,8.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,2,2026-06-02,S3,8.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,3,2026-06-03,G2,4.0,1
+E11,Ethan Brooks,Reservations Agent,Guest Services,4,2026-06-04,OFF,0.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,5,2026-06-05,S3,8.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,6,2026-06-06,OFF,0.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,7,2026-06-07,S1,8.0,1
+E11,Ethan Brooks,Reservations Agent,Guest Services,8,2026-06-08,S3,8.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,9,2026-06-09,S3,8.0,1
+E11,Ethan Brooks,Reservations Agent,Guest Services,10,2026-06-10,S3,8.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,11,2026-06-11,OFF,0.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,12,2026-06-12,S1,8.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,13,2026-06-13,OFF,0.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,14,2026-06-14,S1,8.0,1
+E11,Ethan Brooks,Reservations Agent,Guest Services,15,2026-06-15,S1,8.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,16,2026-06-16,G1,4.0,1
+E11,Ethan Brooks,Reservations Agent,Guest Services,17,2026-06-17,G2,4.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,18,2026-06-18,OFF,0.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,19,2026-06-19,S1,8.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,20,2026-06-20,S3,8.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,21,2026-06-21,S3,8.0,1
+E11,Ethan Brooks,Reservations Agent,Guest Services,22,2026-06-22,S3,8.0,1
+E11,Ethan Brooks,Reservations Agent,Guest Services,23,2026-06-23,OFF,0.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,24,2026-06-24,S1,8.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,25,2026-06-25,OFF,0.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,26,2026-06-26,G1,4.0,1
+E11,Ethan Brooks,Reservations Agent,Guest Services,27,2026-06-27,S1,8.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,28,2026-06-28,S1,8.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,29,2026-06-29,OFF,0.0,0
+E11,Ethan Brooks,Reservations Agent,Guest Services,30,2026-06-30,S1,8.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,1,2026-06-01,S1,8.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,2,2026-06-02,S1,8.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,3,2026-06-03,S2,8.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,4,2026-06-04,S3,8.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,5,2026-06-05,OFF,0.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,6,2026-06-06,G2,4.0,1
+E12,Lucas Morgan,Reservations Agent,Guest Services,7,2026-06-07,G2,4.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,8,2026-06-08,S3,8.0,1
+E12,Lucas Morgan,Reservations Agent,Guest Services,9,2026-06-09,S2,8.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,10,2026-06-10,S3,8.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,11,2026-06-11,OFF,0.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,12,2026-06-12,OFF,0.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,13,2026-06-13,S3,8.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,14,2026-06-14,S3,8.0,1
+E12,Lucas Morgan,Reservations Agent,Guest Services,15,2026-06-15,G2,4.0,1
+E12,Lucas Morgan,Reservations Agent,Guest Services,16,2026-06-16,S3,8.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,17,2026-06-17,OFF,0.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,18,2026-06-18,S1,8.0,1
+E12,Lucas Morgan,Reservations Agent,Guest Services,19,2026-06-19,OFF,0.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,20,2026-06-20,G1,4.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,21,2026-06-21,OFF,0.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,22,2026-06-22,S1,8.0,1
+E12,Lucas Morgan,Reservations Agent,Guest Services,23,2026-06-23,S1,8.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,24,2026-06-24,S1,8.0,1
+E12,Lucas Morgan,Reservations Agent,Guest Services,25,2026-06-25,S3,8.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,26,2026-06-26,OFF,0.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,27,2026-06-27,OFF,0.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,28,2026-06-28,S1,8.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,29,2026-06-29,S1,8.0,0
+E12,Lucas Morgan,Reservations Agent,Guest Services,30,2026-06-30,S3,8.0,1

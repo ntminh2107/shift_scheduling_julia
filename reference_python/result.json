@@ -1,0 +1,1629 @@
+{
+  "status": "OPTIMAL",
+  "message": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "seconds": 0.226,
+  "mip_gap": 0.0,
+  "mip_dual_bound": 240.0,
+  "binary_variables": 420,
+  "constraints": 272,
+  "metrics": {
+    "shortage_person_slots": 0,
+    "preference_violations": 24,
+    "hour_deviation": 0,
+    "total_demand_person_slots": 84,
+    "coverage_rate": 1.0,
+    "preference_rate": 0.5789473684210527,
+    "worked_shifts": 57,
+    "broken_shifts": 18,
+    "surplus_person_slots": 12,
+    "actual_hours": 384,
+    "objective_recomputed": 240,
+    "solver_objective": 240.0,
+    "objective_auxiliary_slack": 0.0,
+    "hard_constraint_violations": 0
+  },
+  "schedule": [
+    {
+      "a": "E01",
+      "name": "Nhan vien 01",
+      "c": "Team_A",
+      "Day_1": "OFF",
+      "Day_2": "OFF",
+      "Day_3": "S1",
+      "Day_4": "OFF",
+      "Day_5": "S1",
+      "Day_6": "S1",
+      "Day_7": "S1"
+    },
+    {
+      "a": "E02",
+      "name": "Nhan vien 02",
+      "c": "Team_A",
+      "Day_1": "S3",
+      "Day_2": "OFF",
+      "Day_3": "OFF",
+      "Day_4": "S1",
+      "Day_5": "G1",
+      "Day_6": "S3",
+      "Day_7": "G2"
+    },
+    {
+      "a": "E03",
+      "name": "Nhan vien 03",
+      "c": "Team_A",
+      "Day_1": "G1",
+      "Day_2": "S3",
+      "Day_3": "OFF",
+      "Day_4": "S1",
+      "Day_5": "S3",
+      "Day_6": "G2",
+      "Day_7": "OFF"
+    },
+    {
+      "a": "E04",
+      "name": "Nhan vien 04",
+      "c": "Team_A",
+      "Day_1": "S3",
+      "Day_2": "S3",
+      "Day_3": "S3",
+      "Day_4": "OFF",
+      "Day_5": "OFF",
+      "Day_6": "S1",
+      "Day_7": "OFF"
+    },
+    {
+      "a": "E05",
+      "name": "Nhan vien 05",
+      "c": "Team_A",
+      "Day_1": "OFF",
+      "Day_2": "S1",
+      "Day_3": "S1",
+      "Day_4": "S3",
+      "Day_5": "OFF",
+      "Day_6": "OFF",
+      "Day_7": "S3"
+    },
+    {
+      "a": "E06",
+      "name": "Nhan vien 06",
+      "c": "Team_A",
+      "Day_1": "S1",
+      "Day_2": "G1",
+      "Day_3": "G2",
+      "Day_4": "S3",
+      "Day_5": "G2",
+      "Day_6": "OFF",
+      "Day_7": "G1"
+    },
+    {
+      "a": "E07",
+      "name": "Nhan vien 07",
+      "c": "Team_B",
+      "Day_1": "OFF",
+      "Day_2": "OFF",
+      "Day_3": "S1",
+      "Day_4": "S1",
+      "Day_5": "S1",
+      "Day_6": "S1",
+      "Day_7": "OFF"
+    },
+    {
+      "a": "E08",
+      "name": "Nhan vien 08",
+      "c": "Team_B",
+      "Day_1": "OFF",
+      "Day_2": "S1",
+      "Day_3": "G2",
+      "Day_4": "S3",
+      "Day_5": "OFF",
+      "Day_6": "G2",
+      "Day_7": "S3"
+    },
+    {
+      "a": "E09",
+      "name": "Nhan vien 09",
+      "c": "Team_B",
+      "Day_1": "G1",
+      "Day_2": "OFF",
+      "Day_3": "G2",
+      "Day_4": "S3",
+      "Day_5": "S3",
+      "Day_6": "S3",
+      "Day_7": "OFF"
+    },
+    {
+      "a": "E10",
+      "name": "Nhan vien 10",
+      "c": "Team_B",
+      "Day_1": "S3",
+      "Day_2": "S3",
+      "Day_3": "OFF",
+      "Day_4": "OFF",
+      "Day_5": "S3",
+      "Day_6": "OFF",
+      "Day_7": "S1"
+    },
+    {
+      "a": "E11",
+      "name": "Nhan vien 11",
+      "c": "Team_B",
+      "Day_1": "S3",
+      "Day_2": "G2",
+      "Day_3": "S2",
+      "Day_4": "OFF",
+      "Day_5": "G1",
+      "Day_6": "G1",
+      "Day_7": "G2"
+    },
+    {
+      "a": "E12",
+      "name": "Nhan vien 12",
+      "c": "Team_B",
+      "Day_1": "S1",
+      "Day_2": "S1",
+      "Day_3": "G1",
+      "Day_4": "G1",
+      "Day_5": "OFF",
+      "Day_6": "OFF",
+      "Day_7": "S1"
+    }
+  ],
+  "assignments": [
+    {
+      "a": "E01",
+      "name": "Nhan vien 01",
+      "c": "Team_A",
+      "b": 1,
+      "date": "2026-10-26",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E01",
+      "name": "Nhan vien 01",
+      "c": "Team_A",
+      "b": 2,
+      "date": "2026-10-27",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E01",
+      "name": "Nhan vien 01",
+      "c": "Team_A",
+      "b": 3,
+      "date": "2026-10-28",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E01",
+      "name": "Nhan vien 01",
+      "c": "Team_A",
+      "b": 4,
+      "date": "2026-10-29",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E01",
+      "name": "Nhan vien 01",
+      "c": "Team_A",
+      "b": 5,
+      "date": "2026-10-30",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E01",
+      "name": "Nhan vien 01",
+      "c": "Team_A",
+      "b": 6,
+      "date": "2026-10-31",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E01",
+      "name": "Nhan vien 01",
+      "c": "Team_A",
+      "b": 7,
+      "date": "2026-11-01",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E02",
+      "name": "Nhan vien 02",
+      "c": "Team_A",
+      "b": 1,
+      "date": "2026-10-26",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E02",
+      "name": "Nhan vien 02",
+      "c": "Team_A",
+      "b": 2,
+      "date": "2026-10-27",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E02",
+      "name": "Nhan vien 02",
+      "c": "Team_A",
+      "b": 3,
+      "date": "2026-10-28",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E02",
+      "name": "Nhan vien 02",
+      "c": "Team_A",
+      "b": 4,
+      "date": "2026-10-29",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E02",
+      "name": "Nhan vien 02",
+      "c": "Team_A",
+      "b": 5,
+      "date": "2026-10-30",
+      "shift": "G1",
+      "hours": 4,
+      "preference_violation": 0
+    },
+    {
+      "a": "E02",
+      "name": "Nhan vien 02",
+      "c": "Team_A",
+      "b": 6,
+      "date": "2026-10-31",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E02",
+      "name": "Nhan vien 02",
+      "c": "Team_A",
+      "b": 7,
+      "date": "2026-11-01",
+      "shift": "G2",
+      "hours": 4,
+      "preference_violation": 0
+    },
+    {
+      "a": "E03",
+      "name": "Nhan vien 03",
+      "c": "Team_A",
+      "b": 1,
+      "date": "2026-10-26",
+      "shift": "G1",
+      "hours": 4,
+      "preference_violation": 0
+    },
+    {
+      "a": "E03",
+      "name": "Nhan vien 03",
+      "c": "Team_A",
+      "b": 2,
+      "date": "2026-10-27",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E03",
+      "name": "Nhan vien 03",
+      "c": "Team_A",
+      "b": 3,
+      "date": "2026-10-28",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E03",
+      "name": "Nhan vien 03",
+      "c": "Team_A",
+      "b": 4,
+      "date": "2026-10-29",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E03",
+      "name": "Nhan vien 03",
+      "c": "Team_A",
+      "b": 5,
+      "date": "2026-10-30",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E03",
+      "name": "Nhan vien 03",
+      "c": "Team_A",
+      "b": 6,
+      "date": "2026-10-31",
+      "shift": "G2",
+      "hours": 4,
+      "preference_violation": 0
+    },
+    {
+      "a": "E03",
+      "name": "Nhan vien 03",
+      "c": "Team_A",
+      "b": 7,
+      "date": "2026-11-01",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E04",
+      "name": "Nhan vien 04",
+      "c": "Team_A",
+      "b": 1,
+      "date": "2026-10-26",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E04",
+      "name": "Nhan vien 04",
+      "c": "Team_A",
+      "b": 2,
+      "date": "2026-10-27",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E04",
+      "name": "Nhan vien 04",
+      "c": "Team_A",
+      "b": 3,
+      "date": "2026-10-28",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E04",
+      "name": "Nhan vien 04",
+      "c": "Team_A",
+      "b": 4,
+      "date": "2026-10-29",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E04",
+      "name": "Nhan vien 04",
+      "c": "Team_A",
+      "b": 5,
+      "date": "2026-10-30",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E04",
+      "name": "Nhan vien 04",
+      "c": "Team_A",
+      "b": 6,
+      "date": "2026-10-31",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E04",
+      "name": "Nhan vien 04",
+      "c": "Team_A",
+      "b": 7,
+      "date": "2026-11-01",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E05",
+      "name": "Nhan vien 05",
+      "c": "Team_A",
+      "b": 1,
+      "date": "2026-10-26",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E05",
+      "name": "Nhan vien 05",
+      "c": "Team_A",
+      "b": 2,
+      "date": "2026-10-27",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E05",
+      "name": "Nhan vien 05",
+      "c": "Team_A",
+      "b": 3,
+      "date": "2026-10-28",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E05",
+      "name": "Nhan vien 05",
+      "c": "Team_A",
+      "b": 4,
+      "date": "2026-10-29",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E05",
+      "name": "Nhan vien 05",
+      "c": "Team_A",
+      "b": 5,
+      "date": "2026-10-30",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E05",
+      "name": "Nhan vien 05",
+      "c": "Team_A",
+      "b": 6,
+      "date": "2026-10-31",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E05",
+      "name": "Nhan vien 05",
+      "c": "Team_A",
+      "b": 7,
+      "date": "2026-11-01",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E06",
+      "name": "Nhan vien 06",
+      "c": "Team_A",
+      "b": 1,
+      "date": "2026-10-26",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E06",
+      "name": "Nhan vien 06",
+      "c": "Team_A",
+      "b": 2,
+      "date": "2026-10-27",
+      "shift": "G1",
+      "hours": 4,
+      "preference_violation": 1
+    },
+    {
+      "a": "E06",
+      "name": "Nhan vien 06",
+      "c": "Team_A",
+      "b": 3,
+      "date": "2026-10-28",
+      "shift": "G2",
+      "hours": 4,
+      "preference_violation": 0
+    },
+    {
+      "a": "E06",
+      "name": "Nhan vien 06",
+      "c": "Team_A",
+      "b": 4,
+      "date": "2026-10-29",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E06",
+      "name": "Nhan vien 06",
+      "c": "Team_A",
+      "b": 5,
+      "date": "2026-10-30",
+      "shift": "G2",
+      "hours": 4,
+      "preference_violation": 1
+    },
+    {
+      "a": "E06",
+      "name": "Nhan vien 06",
+      "c": "Team_A",
+      "b": 6,
+      "date": "2026-10-31",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E06",
+      "name": "Nhan vien 06",
+      "c": "Team_A",
+      "b": 7,
+      "date": "2026-11-01",
+      "shift": "G1",
+      "hours": 4,
+      "preference_violation": 0
+    },
+    {
+      "a": "E07",
+      "name": "Nhan vien 07",
+      "c": "Team_B",
+      "b": 1,
+      "date": "2026-10-26",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E07",
+      "name": "Nhan vien 07",
+      "c": "Team_B",
+      "b": 2,
+      "date": "2026-10-27",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E07",
+      "name": "Nhan vien 07",
+      "c": "Team_B",
+      "b": 3,
+      "date": "2026-10-28",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E07",
+      "name": "Nhan vien 07",
+      "c": "Team_B",
+      "b": 4,
+      "date": "2026-10-29",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E07",
+      "name": "Nhan vien 07",
+      "c": "Team_B",
+      "b": 5,
+      "date": "2026-10-30",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E07",
+      "name": "Nhan vien 07",
+      "c": "Team_B",
+      "b": 6,
+      "date": "2026-10-31",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E07",
+      "name": "Nhan vien 07",
+      "c": "Team_B",
+      "b": 7,
+      "date": "2026-11-01",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E08",
+      "name": "Nhan vien 08",
+      "c": "Team_B",
+      "b": 1,
+      "date": "2026-10-26",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E08",
+      "name": "Nhan vien 08",
+      "c": "Team_B",
+      "b": 2,
+      "date": "2026-10-27",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E08",
+      "name": "Nhan vien 08",
+      "c": "Team_B",
+      "b": 3,
+      "date": "2026-10-28",
+      "shift": "G2",
+      "hours": 4,
+      "preference_violation": 1
+    },
+    {
+      "a": "E08",
+      "name": "Nhan vien 08",
+      "c": "Team_B",
+      "b": 4,
+      "date": "2026-10-29",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E08",
+      "name": "Nhan vien 08",
+      "c": "Team_B",
+      "b": 5,
+      "date": "2026-10-30",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E08",
+      "name": "Nhan vien 08",
+      "c": "Team_B",
+      "b": 6,
+      "date": "2026-10-31",
+      "shift": "G2",
+      "hours": 4,
+      "preference_violation": 1
+    },
+    {
+      "a": "E08",
+      "name": "Nhan vien 08",
+      "c": "Team_B",
+      "b": 7,
+      "date": "2026-11-01",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E09",
+      "name": "Nhan vien 09",
+      "c": "Team_B",
+      "b": 1,
+      "date": "2026-10-26",
+      "shift": "G1",
+      "hours": 4,
+      "preference_violation": 0
+    },
+    {
+      "a": "E09",
+      "name": "Nhan vien 09",
+      "c": "Team_B",
+      "b": 2,
+      "date": "2026-10-27",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E09",
+      "name": "Nhan vien 09",
+      "c": "Team_B",
+      "b": 3,
+      "date": "2026-10-28",
+      "shift": "G2",
+      "hours": 4,
+      "preference_violation": 0
+    },
+    {
+      "a": "E09",
+      "name": "Nhan vien 09",
+      "c": "Team_B",
+      "b": 4,
+      "date": "2026-10-29",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E09",
+      "name": "Nhan vien 09",
+      "c": "Team_B",
+      "b": 5,
+      "date": "2026-10-30",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E09",
+      "name": "Nhan vien 09",
+      "c": "Team_B",
+      "b": 6,
+      "date": "2026-10-31",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E09",
+      "name": "Nhan vien 09",
+      "c": "Team_B",
+      "b": 7,
+      "date": "2026-11-01",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E10",
+      "name": "Nhan vien 10",
+      "c": "Team_B",
+      "b": 1,
+      "date": "2026-10-26",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E10",
+      "name": "Nhan vien 10",
+      "c": "Team_B",
+      "b": 2,
+      "date": "2026-10-27",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E10",
+      "name": "Nhan vien 10",
+      "c": "Team_B",
+      "b": 3,
+      "date": "2026-10-28",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E10",
+      "name": "Nhan vien 10",
+      "c": "Team_B",
+      "b": 4,
+      "date": "2026-10-29",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E10",
+      "name": "Nhan vien 10",
+      "c": "Team_B",
+      "b": 5,
+      "date": "2026-10-30",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E10",
+      "name": "Nhan vien 10",
+      "c": "Team_B",
+      "b": 6,
+      "date": "2026-10-31",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E10",
+      "name": "Nhan vien 10",
+      "c": "Team_B",
+      "b": 7,
+      "date": "2026-11-01",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E11",
+      "name": "Nhan vien 11",
+      "c": "Team_B",
+      "b": 1,
+      "date": "2026-10-26",
+      "shift": "S3",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E11",
+      "name": "Nhan vien 11",
+      "c": "Team_B",
+      "b": 2,
+      "date": "2026-10-27",
+      "shift": "G2",
+      "hours": 4,
+      "preference_violation": 1
+    },
+    {
+      "a": "E11",
+      "name": "Nhan vien 11",
+      "c": "Team_B",
+      "b": 3,
+      "date": "2026-10-28",
+      "shift": "S2",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E11",
+      "name": "Nhan vien 11",
+      "c": "Team_B",
+      "b": 4,
+      "date": "2026-10-29",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E11",
+      "name": "Nhan vien 11",
+      "c": "Team_B",
+      "b": 5,
+      "date": "2026-10-30",
+      "shift": "G1",
+      "hours": 4,
+      "preference_violation": 0
+    },
+    {
+      "a": "E11",
+      "name": "Nhan vien 11",
+      "c": "Team_B",
+      "b": 6,
+      "date": "2026-10-31",
+      "shift": "G1",
+      "hours": 4,
+      "preference_violation": 1
+    },
+    {
+      "a": "E11",
+      "name": "Nhan vien 11",
+      "c": "Team_B",
+      "b": 7,
+      "date": "2026-11-01",
+      "shift": "G2",
+      "hours": 4,
+      "preference_violation": 0
+    },
+    {
+      "a": "E12",
+      "name": "Nhan vien 12",
+      "c": "Team_B",
+      "b": 1,
+      "date": "2026-10-26",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 0
+    },
+    {
+      "a": "E12",
+      "name": "Nhan vien 12",
+      "c": "Team_B",
+      "b": 2,
+      "date": "2026-10-27",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 1
+    },
+    {
+      "a": "E12",
+      "name": "Nhan vien 12",
+      "c": "Team_B",
+      "b": 3,
+      "date": "2026-10-28",
+      "shift": "G1",
+      "hours": 4,
+      "preference_violation": 1
+    },
+    {
+      "a": "E12",
+      "name": "Nhan vien 12",
+      "c": "Team_B",
+      "b": 4,
+      "date": "2026-10-29",
+      "shift": "G1",
+      "hours": 4,
+      "preference_violation": 0
+    },
+    {
+      "a": "E12",
+      "name": "Nhan vien 12",
+      "c": "Team_B",
+      "b": 5,
+      "date": "2026-10-30",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E12",
+      "name": "Nhan vien 12",
+      "c": "Team_B",
+      "b": 6,
+      "date": "2026-10-31",
+      "shift": "OFF",
+      "hours": 0,
+      "preference_violation": 0
+    },
+    {
+      "a": "E12",
+      "name": "Nhan vien 12",
+      "c": "Team_B",
+      "b": 7,
+      "date": "2026-11-01",
+      "shift": "S1",
+      "hours": 8,
+      "preference_violation": 0
+    }
+  ],
+  "hours": [
+    {
+      "a": "E01",
+      "c": "Team_A",
+      "min_hours": 24,
+      "target_hours": 32,
+      "max_hours": 40,
+      "actual_hours": 32,
+      "deviation": 0
+    },
+    {
+      "a": "E02",
+      "c": "Team_A",
+      "min_hours": 24,
+      "target_hours": 32,
+      "max_hours": 40,
+      "actual_hours": 32,
+      "deviation": 0
+    },
+    {
+      "a": "E03",
+      "c": "Team_A",
+      "min_hours": 24,
+      "target_hours": 32,
+      "max_hours": 40,
+      "actual_hours": 32,
+      "deviation": 0
+    },
+    {
+      "a": "E04",
+      "c": "Team_A",
+      "min_hours": 24,
+      "target_hours": 32,
+      "max_hours": 40,
+      "actual_hours": 32,
+      "deviation": 0
+    },
+    {
+      "a": "E05",
+      "c": "Team_A",
+      "min_hours": 24,
+      "target_hours": 32,
+      "max_hours": 40,
+      "actual_hours": 32,
+      "deviation": 0
+    },
+    {
+      "a": "E06",
+      "c": "Team_A",
+      "min_hours": 24,
+      "target_hours": 32,
+      "max_hours": 40,
+      "actual_hours": 32,
+      "deviation": 0
+    },
+    {
+      "a": "E07",
+      "c": "Team_B",
+      "min_hours": 24,
+      "target_hours": 32,
+      "max_hours": 40,
+      "actual_hours": 32,
+      "deviation": 0
+    },
+    {
+      "a": "E08",
+      "c": "Team_B",
+      "min_hours": 24,
+      "target_hours": 32,
+      "max_hours": 40,
+      "actual_hours": 32,
+      "deviation": 0
+    },
+    {
+      "a": "E09",
+      "c": "Team_B",
+      "min_hours": 24,
+      "target_hours": 32,
+      "max_hours": 40,
+      "actual_hours": 32,
+      "deviation": 0
+    },
+    {
+      "a": "E10",
+      "c": "Team_B",
+      "min_hours": 24,
+      "target_hours": 32,
+      "max_hours": 40,
+      "actual_hours": 32,
+      "deviation": 0
+    },
+    {
+      "a": "E11",
+      "c": "Team_B",
+      "min_hours": 24,
+      "target_hours": 32,
+      "max_hours": 40,
+      "actual_hours": 32,
+      "deviation": 0
+    },
+    {
+      "a": "E12",
+      "c": "Team_B",
+      "min_hours": 24,
+      "target_hours": 32,
+      "max_hours": 40,
+      "actual_hours": 32,
+      "deviation": 0
+    }
+  ],
+  "coverage": [
+    {
+      "b": 1,
+      "c": "Team_A",
+      "k": "K1",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 1,
+      "c": "Team_A",
+      "k": "K2",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 1,
+      "c": "Team_A",
+      "k": "K3",
+      "required": 1,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 1
+    },
+    {
+      "b": 1,
+      "c": "Team_A",
+      "k": "K4",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 1,
+      "c": "Team_B",
+      "k": "K1",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 1,
+      "c": "Team_B",
+      "k": "K2",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 1,
+      "c": "Team_B",
+      "k": "K3",
+      "required": 1,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 1
+    },
+    {
+      "b": 1,
+      "c": "Team_B",
+      "k": "K4",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 2,
+      "c": "Team_A",
+      "k": "K1",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 2,
+      "c": "Team_A",
+      "k": "K2",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 2,
+      "c": "Team_A",
+      "k": "K3",
+      "required": 1,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 1
+    },
+    {
+      "b": 2,
+      "c": "Team_A",
+      "k": "K4",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 2,
+      "c": "Team_B",
+      "k": "K1",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 2,
+      "c": "Team_B",
+      "k": "K2",
+      "required": 1,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 1
+    },
+    {
+      "b": 2,
+      "c": "Team_B",
+      "k": "K3",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 2,
+      "c": "Team_B",
+      "k": "K4",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 3,
+      "c": "Team_A",
+      "k": "K1",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 3,
+      "c": "Team_A",
+      "k": "K2",
+      "required": 1,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 1
+    },
+    {
+      "b": 3,
+      "c": "Team_A",
+      "k": "K3",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 3,
+      "c": "Team_A",
+      "k": "K4",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 3,
+      "c": "Team_B",
+      "k": "K1",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 3,
+      "c": "Team_B",
+      "k": "K2",
+      "required": 1,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 1
+    },
+    {
+      "b": 3,
+      "c": "Team_B",
+      "k": "K3",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 3,
+      "c": "Team_B",
+      "k": "K4",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 4,
+      "c": "Team_A",
+      "k": "K1",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 4,
+      "c": "Team_A",
+      "k": "K2",
+      "required": 1,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 1
+    },
+    {
+      "b": 4,
+      "c": "Team_A",
+      "k": "K3",
+      "required": 1,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 1
+    },
+    {
+      "b": 4,
+      "c": "Team_A",
+      "k": "K4",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 4,
+      "c": "Team_B",
+      "k": "K1",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 4,
+      "c": "Team_B",
+      "k": "K2",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 4,
+      "c": "Team_B",
+      "k": "K3",
+      "required": 1,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 1
+    },
+    {
+      "b": 4,
+      "c": "Team_B",
+      "k": "K4",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 5,
+      "c": "Team_A",
+      "k": "K1",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 5,
+      "c": "Team_A",
+      "k": "K2",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 5,
+      "c": "Team_A",
+      "k": "K3",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 5,
+      "c": "Team_A",
+      "k": "K4",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 5,
+      "c": "Team_B",
+      "k": "K1",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 5,
+      "c": "Team_B",
+      "k": "K2",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 5,
+      "c": "Team_B",
+      "k": "K3",
+      "required": 1,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 1
+    },
+    {
+      "b": 5,
+      "c": "Team_B",
+      "k": "K4",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 6,
+      "c": "Team_A",
+      "k": "K1",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 6,
+      "c": "Team_A",
+      "k": "K2",
+      "required": 1,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 1
+    },
+    {
+      "b": 6,
+      "c": "Team_A",
+      "k": "K3",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 6,
+      "c": "Team_A",
+      "k": "K4",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 6,
+      "c": "Team_B",
+      "k": "K1",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 6,
+      "c": "Team_B",
+      "k": "K2",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 6,
+      "c": "Team_B",
+      "k": "K3",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 6,
+      "c": "Team_B",
+      "k": "K4",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 7,
+      "c": "Team_A",
+      "k": "K1",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 7,
+      "c": "Team_A",
+      "k": "K2",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 7,
+      "c": "Team_A",
+      "k": "K3",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 7,
+      "c": "Team_A",
+      "k": "K4",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 7,
+      "c": "Team_B",
+      "k": "K1",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 7,
+      "c": "Team_B",
+      "k": "K2",
+      "required": 1,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 1
+    },
+    {
+      "b": 7,
+      "c": "Team_B",
+      "k": "K3",
+      "required": 1,
+      "actual": 1,
+      "shortage": 0,
+      "surplus": 0
+    },
+    {
+      "b": 7,
+      "c": "Team_B",
+      "k": "K4",
+      "required": 2,
+      "actual": 2,
+      "shortage": 0,
+      "surplus": 0
+    }
+  ]
+}
